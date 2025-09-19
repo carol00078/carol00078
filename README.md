@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Codez e CAROL</h1>
 <h3 align="center">A passionate C++ developer</h3>
 
